@@ -1,4 +1,4 @@
-# Team Weather — Prototype (Commented)
+# Team Weather — Prototype
 This version adds concise, presentation‑ready comments to help you explain each part.
 
 ## How to Run
